@@ -6,14 +6,14 @@ To generate the jQuery files,
 
 1. Clone out the git repo
 
-    git clone https://dtjm@github.com/dtjm/jquery.git
+        git clone https://dtjm@github.com/dtjm/jquery.git
 
 2. Check out the `ajaxonly` branch or one of the `x.x.x-ajaxonly` tags.
 
-    git checkout ajaxonly
+        git checkout ajaxonly
 
 2. Run `make`
 
-    make
+        make
     
 3. The files will be in the `dist` folder.
